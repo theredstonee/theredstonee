@@ -8,9 +8,9 @@
 
 ---
 
-## Hey 👋, I'm TheRedStonee!
+## Hey, I'm TheRedStonee!
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/theredstonee/theredstonee/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="./techstack.gif" width="360px"/>
 
 I'm a web developer from Germany building cool stuff on the internet. I love working with PHP, JavaScript and modern web technologies to create awesome user experiences.
 
@@ -40,14 +40,14 @@ I'm a web developer from Germany building cool stuff on the internet. I love wor
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=theredstonee&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=dc2626&icon_color=dc2626&text_color=ffffff&ring_color=dc2626" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=theredstonee&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=dc2626&icon_color=dc2626&text_color=ffffff&ring_color=dc2626&count_private=true" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theredstonee&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=dc2626&text_color=ffffff" />
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=theredstonee&hide_border=true&background=0a0a0a&stroke=dc2626&ring=dc2626&fire=f97316&currStreakLabel=dc2626&sideLabels=dc2626&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=theredstonee&hide_border=true&background=0a0a0a&stroke=dc2626&ring=dc2626&fire=f97316&currStreakLabel=dc2626&sideLabels=dc2626&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
 
 </div>
 
