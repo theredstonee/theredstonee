@@ -1,19 +1,28 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=200&section=header&text=TheRedStonee&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20aus%20Deutschland&descSize=20&descColor=ffffff&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=200&section=header&text=TheRedStonee&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20from%20Germany&descSize=20&descColor=ffffff&descAlignY=55" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DC2626&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+TheRedStonee;Web+Developer+aus+Deutschland;Creator+of+theredstonee.de;PHP+%7C+JavaScript+%7C+Node.js+%7C+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DC2626&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+TheRedStonee;Web+Developer+from+Germany;Creator+of+theredstonee.de;PHP+%7C+JavaScript+%7C+Node.js+%7C+MySQL)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### About Me
+## Hey 👋, I'm TheRedStonee!
 
-- :computer: Web Developer & Creator of [theredstonee.de](https://www.theredstonee.de/)
-- :hammer_and_wrench: Arbeite mit PHP, JavaScript, Node.js & MySQL
-- :earth_africa: Aus Deutschland
-- :mailbox: Erreichbar auf [Discord](https://discord.com/users/theredstonee) & [meiner Website](https://www.theredstonee.de/contact/)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/theredstonee/theredstonee/main/techstack.gif" width="360px"/>
+
+I'm a web developer from Germany building cool stuff on the internet. I love working with PHP, JavaScript and modern web technologies to create awesome user experiences.
+
+### More About Me:
+
+- :computer: &nbsp; Creator of [theredstonee.de](https://www.theredstonee.de/)
+- :hammer_and_wrench: &nbsp; Working with PHP, JavaScript, Node.js & MySQL
+- :earth_africa: &nbsp; Based in Germany
+- :seedling: &nbsp; Always learning new technologies
+- :mailbox: &nbsp; Reach me on [Discord](https://discord.com/users/theredstonee) or [my website](https://www.theredstonee.de/contact/)
+
+<br clear="right"/>
 
 ---
 
@@ -39,20 +48,6 @@
 <div align="center">
 
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=theredstonee&hide_border=true&background=0a0a0a&stroke=dc2626&ring=dc2626&fire=f97316&currStreakLabel=dc2626&sideLabels=dc2626&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
-
-</div>
-
----
-
-### Snake Animation
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theredstonee/theredstonee/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theredstonee/theredstonee/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/theredstonee/theredstonee/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
