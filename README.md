@@ -40,8 +40,15 @@ I'm a web developer from Germany building cool stuff on the internet. I love wor
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=theredstonee&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=dc2626&icon_color=dc2626&text_color=ffffff&ring_color=dc2626&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theredstonee&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=dc2626&text_color=ffffff" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theredstonee&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theredstonee&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theredstonee&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theredstonee&theme=github_dark&utcOffset=2" />
 
 </div>
 
